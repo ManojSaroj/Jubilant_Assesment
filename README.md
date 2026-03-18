@@ -141,8 +141,8 @@ The project demonstrates practical applications of **Data Analysis, Machine Lear
 ├── leave_policy.txt
 ├── it_policy.txt
 ├── travel_policy.txt
-├── notebook.ipynb
-├── AssignmentReport.pdf
+├── Assignment_notebook.ipynb
+├── Assignment_Report.pdf
 └── README.md
 ```
 
